@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TallerFacundo</string>
+    <string name="app_nombre">Nombre</string>
+    <string name="app_email">Email</string>
+    <string name="app_password">Password</string>
+    <string name="app_rep_password">Repetir Password</string>
+
+    <string name="app_buttonLog">Iniciar Sesion</string>
+    <string name="app_buttonCrearTarea">Crear Tarea</string>
+    <string name="app_buttonListarTarea">Listar Tareas</string>
+
+    <string name="app_identificador">Identificador</string>
+    <string name="app_tarea">Nombre Tarea</string>
+    <string name="app_desc">Descripcion</string>
+    <string name="app_estado">Estado</string>
+
+    <string name="app_ingrese_el_id">Ingrese el id</string>
+    <string name="app_buscar">Buscar</string>
+
+
+    <string name="app_cuenta">Crear Cuenta</string>
+    <string name="app_buttonCrear">Aceptar</string>
+    <string name="app_titulo">Crear Cuenta</string>
+
+    <string name="app_menu">Bienvenido Usuario</string>
+</resources>
